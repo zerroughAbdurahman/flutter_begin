@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31421075835",
+    "project_id": "my-projectab-4d2c8",
+    "storage_bucket": "my-projectab-4d2c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31421075835:android:d719b2a769b169f0faedde",
+        "android_client_info": {
+          "package_name": "com.example.begapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBwaH811JtXLSkARV5UoRRSsL3gnO-ijY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31421075835:android:bc79835711fc857bfaedde",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBwaH811JtXLSkARV5UoRRSsL3gnO-ijY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
